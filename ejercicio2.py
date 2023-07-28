@@ -1,0 +1,1 @@
+print("Saludos desde la clase de Fundamentos de código abierto")
